@@ -282,10 +282,6 @@ npm start
 3. Connect to existing backend APIs
 4. Follow the established patterns for consistency
 
-## 📄 License
-
-MIT
-
 ## 👏 Credits
 
 Built with FastAPI, Next.js, Tailwind CSS, and shadcn/ui
